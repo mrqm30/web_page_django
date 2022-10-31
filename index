@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Mi primer pagina</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <div>
+  
+  <h1>Mi primer sitio Web</h1>
+  <p> Milton Quintana Moreno </p>
+  <p>Mexicano <br> Data Scientist <br>
+  <p><i>"Slowly is the fastest way to get to where you want to be"</i></p>
+  </p>
+
+ </div>
+<a href="https://github.com/mrqm30", target="_blank">Mi GitHub </a>
+
+<hr>
+<img src="https://imgs.search.brave.com/
+2-lrjM-_-BzRjsoM6PDYAeGiJ2q_AQWw3NHFqT2tPWQ/rs:fit:960:600:1/
+g:ce/aHR0cHM6Ly93d3cu/Y29tb2Z1bmNpb25h/dG9kby5uZXQvd3At/
+Y29udGVudC91cGxv/YWRzLzIwMTQvMDYv/cGlyYXRhcy1wYXJj/aGUtb2pvLmpwZw">
+<link>
+<br>
+</body>
+</html>
+ 
